@@ -1,0 +1,9 @@
+@article{REPO118,
+    author = "Qu, Zhe and Duan, Rui and Chen, Lixing and Xu, Jie and Lu, Zhuo and Liu, Yao",
+    journal = "IEEE Transactions on Parallel and Distributed Systems",
+    number = "12",
+    pages = "4353-4367",
+    title = "{Context-Aware Online Client Selection for Hierarchical Federated Learning}",
+    volume = "33",
+    year = "2022"
+}
